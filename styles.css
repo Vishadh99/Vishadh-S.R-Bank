@@ -1,0 +1,61 @@
+body
+{
+	background-image: url("image/euro5.jpg");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: 1600px 1100px;
+}
+#customer
+{
+	background-image: url("image/euro5.jpg");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: 1600px 1100px;
+}
+#home
+{
+	color:#1A5276;
+	background-image:url("image/cust.jpg");
+	background-position: left top;
+	background-size: 1000px 800px;
+}
+
+footer
+{
+	background-color: #555;
+	position: absolute;
+	bottom: 10px;
+	text-align:center;
+	font-size: medium;
+}
+
+lable
+{
+	font: 1.2em "Fira Sans", sans-serif;
+	font-size: 1rem;
+}
+
+
+
+.head
+{
+	position: relative;
+	top: 25px;
+}
+nav
+{
+	background-color:#1A5276;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 10px;
+	font: italic 1.2em "Fira Sans", serif;
+}
+
+#table
+{
+	position:relative;
+	top: 30px;
+	font: 1.2em "Fira Sans", sans-serif;
+	background-color: transparent;
+	table-layout: auto;
+	width: 60%;
